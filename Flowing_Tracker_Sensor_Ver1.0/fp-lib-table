@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "CustomLibrary")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary")(options "")(descr ""))
+  (lib (name "84953-4")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/84953-4")(options "")(descr ""))
+  (lib (name "Flowing_logo")(type "KiCad")(uri "${KIPRJMOD}/CustomLibrary/Flowing_logo")(options "")(descr ""))
+)

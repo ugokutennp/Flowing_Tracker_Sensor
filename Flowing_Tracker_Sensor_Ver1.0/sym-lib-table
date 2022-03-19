@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "TS4231")(type "KiCad")(uri "${KIPRJMOD}/TS4231.kicad_sym")(options "")(descr ""))
+  (lib (name "84953-4")(type "Legacy")(uri "${KIPRJMOD}/CustomLibrary/84953-4/84953-4.lib")(options "")(descr ""))
+)
